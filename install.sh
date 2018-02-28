@@ -1,6 +1,6 @@
 #!bin/bash
 
- cd remote/Java_sample_app/SpringMVCSecurityXML
+ cd chandu/Java_sample_app/SpringMVCSecurityXML
   #building and creating the war file with maven
   mvn clean install
   cd target
